@@ -46,7 +46,8 @@ To stop the application, press `Ctrl+C` in the terminal where Docker Compose is 
 ```sh
 docker-compose down
 
-
+docker build -t vuln-app . 
+docker run vuln-app -p 3000:3000 
 
 
 Vulnerabilities
