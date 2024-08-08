@@ -19,7 +19,6 @@
     
 
     "axios": "0.18.0",
-    "express-fileupload": "1.1.1",
     "handlebars": "4.0.11",
 
     "jquery": "3.4.1",
